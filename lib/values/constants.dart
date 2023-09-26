@@ -1,0 +1,2 @@
+const DEFAULT_ERROR_CODE = -1;
+const DEFAULT_ERROR_MESSAGE = "未知错误";
