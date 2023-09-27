@@ -40,7 +40,7 @@ Widget newsChannelsWidget({
                           right: 0,
                           child: Container(
                             height: duSetWidth(64),
-                            decoration: BoxDecoration(
+                            decoration: const BoxDecoration(
                               color: AppColors.primaryBackground,
                               boxShadow: [
                                 Shadows.primaryShadow,
